@@ -1,0 +1,8 @@
+# Ignore Data folder
+Data/
+
+# Ignore notebook side files
+notebook_audio/.ipynb_checkpoints
+
+# Ignore the Python cache files
+__pycache__/
